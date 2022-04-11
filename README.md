@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Html and css
 - 💞️ I’m looking to collaborate on both topics above
 - 📫 How to reach me lakunzy7@gmail.com
+Thanks
 
 <!---
 lakunzy7/lakunzy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
