@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lakunzy7
+- 👋 Hi, I’m @lakunzy
 - 👀 I’m interested in learning basic html / css / JavaScript and python
 - 🌱 I’m currently learning Html and css
 - 💞️ I’m looking to collaborate on both topics above
