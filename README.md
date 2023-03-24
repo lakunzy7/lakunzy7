@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lakunzy
-- 👀 I’m interested in learning basic html / css / JavaScript and python
-- 🌱 I’m currently learning Html and css
-- 💞️ I’m looking to collaborate on both topics above
+- 🌱 I’m currently Running Alx Sofware program,Covering Full-stack Developer 
+- 💞️ I’m looking forward to collaborate on topic above
 - 📫 How to reach me lakunzy7@gmail.com
 Thanks
 
