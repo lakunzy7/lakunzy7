@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lakunzy
-- 🌱 I’m currently Running Alx Sofware program,Covering Full-stack Developer 
-- 💞️ I’m looking forward to collaborate on topic above
 - 📫 How to reach me lakunzy7@gmail.com
 Thanks
 
