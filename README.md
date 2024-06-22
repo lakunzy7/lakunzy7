@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lakunzy
-- 📫 How to reach me lakunzy7@gmail.com
-Thanks
+- 👋 Hi Lakunzy
 
 <!---
 lakunzy7/lakunzy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
