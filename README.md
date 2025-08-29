@@ -12,9 +12,8 @@
 - 🌱 Currently learning **DevOps, AWS Cloud Computing, Kubernetes, and DevSecOps**  
 - 🛡️ Certified **CompTIA Security+** & **KCNA (Kubernetes and Cloud Native Associate)**  
 - ☁️ Solid foundation in **AWS Cloud concepts (EC2, S3, VPC, IAM, Route 53, CloudFront, SSL, RDS)**  
-- 💼 Former as **Data Centre Operational Engineer** at **Globacom** (2022–2023)  
-- 🏢 Worked as **Project Support Engineer** at **Toptech Engineering Ltd.**  
-- 🏦 Datacenter Project Supervisor at **Access Bank** (1+ year)  
+- 💼 Former as **Data Centre Operational Engineer** at **Globacom**  
+- 🏢 Worked as **Project Support Engineer** at **Toptech Engineering Ltd.**   
 - 🎯 Exploring automation, CI/CD, container security, and cloud-native solutions  
 - 💬 Ask me about **Linux, VMware, AWS Cloud, Security, and DevOps fundamentals**  
 
@@ -50,11 +49,13 @@
 - 🖥️ **[Wazuh SIEM on VMware (YouTube)](https://www.youtube.com/watch?v=f1fFilyMRus&ab_channel=CyberLabChronicles)** → Installed & configured Wazuh in a lab  
 - ☸️ **Kubernetes Service Accounts** → Hands-on labs with kubeadm & minikube  
 - ☁️ **AWS Route 53 + CloudFront + SSL Project** → Hosting a static website on EC2 with domain `lakunzy7.xyz`  
-- 🏗️ **Data Centre Containment Build** → Installed 400A busway, racks, and containment system  
+- 🏗️ **Data Centre Containment Build** → Installed 400A busway, racks, and containment system
+
 
 ---
 
 ## 🔹 Connect With Me
+- 🌍 [Portfolio Website](https://owofola-olakunle.vercel.app/) 
 - [LinkedIn](https://www.linkedin.com/in/owofola-o-056677172)  
 - [X (Twitter)](https://x.com/lakunzy7)  
 - [YouTube – CyberLab Chronicles](https://www.youtube.com/@CyberLabChronicles)  
