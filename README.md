@@ -14,13 +14,13 @@ I'm Lakunzy | DevOps & DevSecOps | Lagos, Nigeria
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning **DevOps, AWS Cloud Computing, Kubernetes, and DevSecOps**  
+- 🌱 Currently learning **DevOps, AWS, Azure Cloud Computing, Kubernetes, and DevSecOps**  
 - 🛡️ Certified **CompTIA Security+** & **KCNA (Kubernetes and Cloud Native Associate)**  
 - ☁️ Solid foundation in **AWS Cloud concepts (EC2, S3, VPC, IAM, Route 53, CloudFront, SSL, RDS)**  
 - 💼 Former as **Data Centre Operational Engineer** at **Globacom**  
 - 🏢 Worked as **Project Support Engineer** at **Toptech Engineering Ltd.**   
 - 🎯 Exploring automation, CI/CD, container security, and cloud-native solutions  
-- 💬 Ask me about **Linux, VMware, AWS Cloud, Security, and DevOps fundamentals**  
+- 💬 Ask me about **Linux, VMware, AWS, Azure Cloud, Security, and DevOps fundamentals**  
 
 ---
 
