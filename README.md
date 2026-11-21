@@ -1,13 +1,6 @@
 # Lakunzy - DevOps Engineer & Cloud Infrastructure Architect
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakunzy7)
-
-<a href="https://certdirectory.io/profile/owofola-olakunle?utm_source=github&utm_medium=readme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/owofola-olakunle.svg?style=card&theme=dark">
-    <img alt="Owofola Olakunle on CertDirectory" src="https://certdirectory.io/badge/owofola-olakunle.svg?style=card">
-  </picture>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=lakunzy7) <a href="https://certdirectory.io/profile/owofola-olakunle?utm_source=github&utm_medium=readme"><picture><source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/owofola-olakunle.svg?style=card&theme=dark"><img alt="Owofola Olakunle on CertDirectory" src="https://certdirectory.io/badge/owofola-olakunle.svg?style=card" style="vertical-align: middle;"></picture></a>
 
 **DevOps | DevSecOps | Cloud Infrastructure | Automation & AI Integration**
 
