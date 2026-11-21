@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakunzy7)
 
-[![Owofola Olakunle on CertDirectory](https://certdirectory.io/badge/owofola-olakunle.svg?style=card)](https://certdirectory.io/profile/owofola-olakunle?utm_source=github&utm_medium=readme)
-
 <a href="https://certdirectory.io/profile/owofola-olakunle?utm_source=github&utm_medium=readme">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/owofola-olakunle.svg?style=card&theme=dark">
